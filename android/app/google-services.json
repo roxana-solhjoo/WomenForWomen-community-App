@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "634984411773",
+    "firebase_url": "https://appforwomen-be03d.firebaseio.com",
+    "project_id": "appforwomen-be03d",
+    "storage_bucket": "appforwomen-be03d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634984411773:android:7ce1493d160d60b20b3714",
+        "android_client_info": {
+          "package_name": "com.forwomen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634984411773-2clb7eoebubne78rik4cno0thg4an8pn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.forwomen",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "634984411773-ceebhq6ih06ghfkogo6mqdi8b4kcl78b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYdSxE3DKhESWoMjfu5up9BRWUX5INkkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634984411773-ceebhq6ih06ghfkogo6mqdi8b4kcl78b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
